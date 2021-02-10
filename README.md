@@ -1,4 +1,4 @@
-# -namepending-
+# -FlashFund-
 
 Current Tasklist, 
 1. Figure out a name for our application 
