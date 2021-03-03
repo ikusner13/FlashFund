@@ -1,10 +1,11 @@
 # -FlashFund-
 
 Current Tasklist, 
-1. Update the document with a problem statement
-2. Start drafting our design documents according to the information we've learned from the interviews. 
+1. Finalize architecture for turn-in, due 3/4/2021
+2. Prepare for presentation. 
 
 Future Tasklist, 
-1. We should design a logo. Something lightning bolt themed. 
-2. Decide how we're gonna build this bad boy. PHP, maybe? 
-3. All the UML. 
+1. Start coding, we have three fronts to work from 
+    - Front-end website design
+    - Back-end class interactions
+    - Database 
